@@ -14,6 +14,7 @@ _How to navigate through the repository?_
 
 - the main topic covered through each project is part of the name of the file
 - every project has two files and it is recommended to go through those in the following order when you want to explore a project
+
   a) a .pdf file is a slide deck providing an introduction to the project, business problem, overview of the data, approach taken, key insights and recommendation 
   
   b) a .ipynb file which is the jupyter notebook which has the executed python code to deliver the project
