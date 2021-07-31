@@ -8,7 +8,7 @@ I recently completed a post graduate programme in data science and business anal
 
 _What are the topics covered?_
 
-It starts with basic exploratory data analysis (EDA) using python to application of various machine learning models and provides an example of a tensorflow application which includes a classification and regression problem.
+It starts with basic exploratory data analysis (EDA) using python to application of various machine learning models and provides an example of a tensorflow application.
 
 _How to navigate through the repository?_
 
