@@ -1,8 +1,8 @@
 **Introduction**
 
 I recently completed a post graduate programme in data science and business analytics. This repository includes the following:
-  - Projects completed as part of a post graduate programme 
-  - Additional data analytics and modelling work I completed outside the course to learn tensorflow, and work done with with a hotel to provide insights about       the business using its data.
+  - Projects completed as part of the programme 
+  - Additional data analytics and modelling work I completed outside the course to learn tensorflow, and work done with with a hotel to provide insights about the business using its data.
 
 **Contents**
 
